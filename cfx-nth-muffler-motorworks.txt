@@ -1,1 +1,1 @@
-{"version":"2.0.0", "changelog":"Reworked from scratch, better building layout, outdoor parking spots, reworked lighting, support for any gamebuild"}
+{"version":"2.0.1", "changelog":"Fixed wall art texture"}
