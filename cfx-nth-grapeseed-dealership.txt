@@ -1,1 +1,1 @@
-{"version":"1.0.0", "changelog":"Release"}
+{"version":"1.0.1", "changelog":"Fixed several bugs with LOD's"}
