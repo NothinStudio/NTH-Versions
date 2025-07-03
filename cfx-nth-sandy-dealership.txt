@@ -1,1 +1,1 @@
-{"version":"1.0.2", "changelog":"Fixed a ox_doorlock compatibility, posters, flowers, fence and glass cabinet position."}
+{"version":"1.0.3", "changelog":"Added a customizable textures and version checker."}
