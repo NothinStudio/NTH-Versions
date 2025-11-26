@@ -1,1 +1,1 @@
-{"version":"1.1.0", "changelog":"Major optimalization, config for car spots, added missing logo decal, and more.."}
+{"version":"1.1.1", "changelog":"Resolved a bug causing Storage room to vanish"}
