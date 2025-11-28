@@ -1,1 +1,1 @@
-{"version":"1.0.1", "changelog":"Fixed job checks and added outline color configuration."}
+{"version":"1.1.1", "changelog":"Option for custom plant models, an option to disable ox_target, and separate input/output configurations for each table and plant."}
