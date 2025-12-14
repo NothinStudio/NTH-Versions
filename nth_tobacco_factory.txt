@@ -1,1 +1,1 @@
-{"version":"1.1.1", "changelog":"Option for custom plant models, an option to disable ox_target, and separate input/output configurations for each table and plant."}
+{"version":"1.1.2", "changelog":"Fixed unsupported operation in delivery logic"}
